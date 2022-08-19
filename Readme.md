@@ -5,13 +5,13 @@ Jeet Sarangi - 21111032 - jeets21@iitk.ac.in <br>
 
 ## Directory Structure:
 #### IR-Systems
-`BM25.py` : Code for BM25 based prediction.
-`BRM.py` : Code for Boolean Retrieval Model based prediction.
-`preprocess.py` : Code for preprocessing the data dump.
-`TFIDF.py` : Code for TFIDF Model based prediction. 
-`Intermediate result files after preprocess` : doc_len.pkl,document_freq.pkl,document_vector_mag.pkl,file_idx.pkl,posting_list.pkl,unique_words.pkl.
+`BM25.py` : Code for BM25 based prediction.<br>
+`BRM.py` : Code for Boolean Retrieval Model based prediction.<br>
+`preprocess.py` : Code for preprocessing the data dump.<br>
+`TFIDF.py` : Code for TFIDF Model based prediction. <br>
+`Intermediate result files after preprocess` : doc_len.pkl,document_freq.pkl,document_vector_mag.pkl,file_idx.pkl,posting_list.pkl,unique_words.pkl.<br>
 #### Qrels:
-`query.txt` : queries for the model.
+`query.txt` : queries for the model.<br>
 `Question3_Qrels.txt` : Grount truth results for all the queries in ranked order.
 ## Link to Dataset:
 Link to Dataset: https://www.cse.iitk.ac.in/users/arnabb/ir/english/
