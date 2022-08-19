@@ -1,0 +1,20 @@
+Q01	blockchain for computer science.
+Q02	knowledge extraction using machine learning techniques.
+Q03	Symbolic execution for program analysis.
+Q04	Physical artificial neurons and Neuromorphic computing.
+Q05	Sorting algorithm for ternary search tree.
+Q06	Abnormal hepatic (liver) function and its problems related to stomach.
+Q07	Intellectual disability and autism spectrum disorder.
+Q08	antidepressant medications for several types of chronic non-cancer pains.
+Q09	consequences of CNS infections.
+Q10	the birdman of Alcatraz.
+Q11	Gastrointestinal symptoms.
+Q12	COVID-19 vaccine candidate List.
+Q13	Leak detection using vaccum pumps.
+Q14	Toronto studies in philosophy and Stanford Encyclopedia of Philosophy.
+Q15	Articles on Waterborne electrophoretic deposition resins.
+Q16	Prediction Algorithms in Machine Learning.
+Q17	Asymtotically high complexity algorithms which can be solved using dynamic programmimg.
+Q18	Group theory in Diffie-Hellman Key Exchange.
+Q19	Lossless compression methods in databases.
+Q20	Difference between Blockchain and Machine learning in Computer science.
