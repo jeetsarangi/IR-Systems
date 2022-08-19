@@ -1,6 +1,6 @@
 #                                  CS657 Assignment 1
 ## Author
-Jeet Sarangi - 21111032 - jeets@iitk.ac.in <br>
+Jeet Sarangi - 21111032 - jeets21@iitk.ac.in <br>
 
 
 ## Directory Structure:
